@@ -1,0 +1,20 @@
+{
+    "Author": "Beth Cooper (MSFT)",
+    "ContentSize": 1522,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/run-ssh-command-to-install-updates/master/Run-SshCommand.ps1",
+    "DownloadCount": 2805,
+    "Id": "Run-SSH-Command-to-Install-c9f65f21",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 156,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-3-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook shows how to run a command on a Linux machine from Automation. The command parameter defaults to 'sudo apt-get update ; sudo apt-get -y upgrade' to retrieve and install of the available updates on the machine.",
+    "Title": "Run SSH Command to Install Updates",
+    "UpdatedDate": "2016-3-25T00:00:00",
+    "Url": "https://github.com/azureautomation/run-ssh-command-to-install-updates",
+    "UserTags": "linux, Azure Automation"
+}
